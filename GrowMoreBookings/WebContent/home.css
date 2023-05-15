@@ -1,0 +1,265 @@
+@charset "UTF-8";
+
+*{
+	
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	
+}
+
+	
+	.navbar{
+	height:100px;
+	width: 100%;
+	background:#d3dcf8;
+	}
+	
+	.reservation{
+	
+	width: 10%;
+	padding: 10px 15px;
+	cursor: pointer;
+	display: block;
+	background: linear-gradient(to right, #d3dcf8, #4191e1);
+	border: 0;
+	outline: none;
+	border-radius: 15px; 	
+	line-height: 17px;
+	position: relative;
+	top:30px;
+	left:20px;
+	
+	}
+	
+	
+	.growmorebooking{
+	
+	font-family: serif;
+	text-align: center;
+	line-height: 17px;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	font-size: 40px;
+ 	font-weight: bold;
+ 	
+	
+	}
+
+	.form-box{
+	
+	width: 650px;
+	height: 280px;
+	margin-left:auto;
+	margin-right: auto;	
+	right: 210px;
+	margin: 10% auto;
+	background: #e6f2ff;
+	padding: 4px; 
+	border-radius: 30px;
+	flex-wrap:wrap;
+	flex: 1;
+	
+	}
+	
+	
+	.train-booking{
+		
+	font-family: sans-serif;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	font-size: 20px;
+ 	font-weight: bold;
+ 	border-radius: 10px;
+ 	background: linear-gradient(to right, #657bbd, #4191e1);
+	
+	
+	}
+	
+	
+	.trip1{
+	
+	width: 130px;
+	height: 30px;
+	position: absolute;
+	left: 635px;	
+	outline: none;
+	background: #d3dcf8;
+	border-radius: 25px;
+	text-align: center;
+	border:0px;
+	
+	
+	}
+	
+	.submitbtn{
+	width: 5.5%;
+	height: 30px;
+	cursor: pointer;
+	display: block;
+	text-align:center;
+	background: linear-gradient(to right, #d3dcf8, #4191e1);
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+	position:relative;
+	top:0px;
+	left:380px;
+		
+    }
+    
+    
+    
+	
+	
+	.origin{
+	
+	width: 24%;
+	height:32px;
+	outline: none;
+	background: #d3dcf8;
+	border-radius: 24px;
+	text-align: center;
+	position:relative;
+	left:140px;
+	top:10px;
+	border:0px;
+	
+	}
+	
+	.destination{
+	
+	width: 24%;
+	height:32px;
+	outline: none;
+	background: #d3dcf8;
+	border-radius: 24px;
+	text-align: center;
+	position:relative;
+	left:365px;
+	top:-53px;
+	border:0px;
+	
+	}
+	
+	 .oneway1{
+	 
+	width: 24%;
+	height:30px;	
+	outline: none;
+	background: #d3dcf8;
+	border-radius: 24px;
+	text-align: center;
+	position: relative;
+ 	left: 255px;
+ 	top:-30px;
+	border: 0px;
+	 
+	 }
+	 
+	  .oneway2{
+	 
+	width: 24%;
+	height:30px;
+	outline: none;
+	background: #d3dcf8;
+	border-radius: 24px;
+	text-align: center;
+	position: relative;
+ 	left: 145px;
+ 	top:-40px;
+	border: 0px;
+	 
+	 }
+	 
+	 
+	.roundtrip{
+	 
+	width: 24%;
+	height:30px;
+	outline: none;
+	background: #d3dcf8;
+	border-radius: 24px;
+	text-align: center;
+	position: relative;
+ 	left: 365px;
+ 	top:-105px;
+	border: 0px;
+	}
+	
+	.submit{
+	width: 7%;
+	height: 32px;	
+	cursor: pointer;
+	display: block;
+	text-align:center;
+	background: linear-gradient(to right, #d3dcf8, #4191e1);
+	border: 0;
+	outline: none;
+	border-radius: 30px; 
+	position: fixed;
+	left:580px;
+	top:500px;
+	
+		
+	
+    }
+    
+    
+	.logout{
+	width: 7%;
+	height: 32px;	
+	cursor: pointer;
+	display: block;
+	text-align:center;
+	background: linear-gradient(to right, #d3dcf8, #4191e1);
+	border: 0;
+	outline: none;
+	border-radius: 30px; 
+	position: fixed;
+	left:775px;
+	top:500px;
+	
+    }
+    
+    
+    .login-icon{
+    
+     position:relative; 
+     left:1200px;
+     top:-20px;
+    
+    }
+    
+    .icon-1{
+    
+    position:relative; 
+    left:315px;
+    top:-20px;
+    
+    
+    }
+    
+    
+    .material2{
+    
+    position:relative; 
+    left:318px;
+    top:-73px;
+    
+    
+    }
+    
+    
+   
+   
+    
+    
+   
+    
+    

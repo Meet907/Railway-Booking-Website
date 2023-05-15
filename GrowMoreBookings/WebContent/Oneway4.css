@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+.form-box{
+	
+	width: 900px;
+	height: 200px;
+	position: relative;
+	top:50px;
+	left:250px;
+	background: #e6f2ff;
+	padding: 4px; 
+	border-radius: 30px;
+	opacity: 0.9;
+	
+	
+	}
+	
+	.reservation{
+	
+	color:#1a1aff;  
+	position:relative; 
+	left:613px; 
+	top:-165px; 
+	font-family: 'Lucida Console'; 
+	font-size: 11px;
+	
+	
+	}
+	
+	.thankyou
+	{	
+	font-size: 15px;
+	position:relative;
+	top:28px;
+	}
+	
+	
+	 .submit-btn{
+	width: 7%;
+	height: 35px;
+	cursor: pointer;
+	display: block;
+	position:fixed;
+	top: 350px;
+	left: 600px;
+	background: #00b386;
+	outline: none;
+	border-radius: 30px; 	
+	}
+	
+	 .home{
+	width: 7%;
+	height: 35px;
+	cursor: pointer;
+	display: block;
+	position:fixed;
+	top: 350px;
+	left: 750px;
+	background: #00b386;
+	outline: none;
+	border-radius: 30px; 	
+	}
+	
+	
+	
+	

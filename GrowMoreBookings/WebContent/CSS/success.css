@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+*{
+	font-family: 'Nunito', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+html{
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+#success{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+}
+
+.btn{
+	border-radius: 25px;
+	width: 95%;
+	height: 50px;
+	font-size: 30px;
+	background-color: white;
+	color: black;
+	border: 2px solid #3bc9ff;
+	outline: none;
+	font-family: 'Nunito', sans-serif;
+}
+
+.btn:focus-within{
+	background-color: #3bc9ff;
+	color: white;
+	border-color: transparent;
+	box-shadow: 0 0 5px 5px #ccf1ff;
+}
+
